@@ -1,0 +1,114 @@
+<main>
+    <div class="image image1"></div>
+
+
+    <section id="when" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div>
+        <h1 class="section__heading">Il Matrimonio</h1>
+        <section class="section__split">
+            <div>
+                <p class="section__subheading">Quando</p>
+                <p class="section__text--bold">
+                    {{ .Params.when }}
+                </p>
+            </div>
+            <div>
+                <p class="section__subheading">Cerimonia</p>
+                <p class="section__text--bold">
+                    {{ .Params.cerimonia.first }}
+                </p>
+                <p>
+                    {{ .Params.cerimonia.second }}
+                </p>
+            <div>
+                <p class="section__subheading">Ricevimento</p>
+                <p class="section__text--bold">
+                    {{ .Params.ricevimento.first }}
+                </p>
+                <p>
+                    {{ .Params.ricevimento.second }}
+                </p>
+            </div>
+            </div>
+        </section>
+        <!-- My CSS in this project is bad, man -->
+        <section style="display:flex;flex-direction:column;align-items:center;">
+            <h2 style="margin-top:2rem;" class="section__heading">RSVP</h2>
+            <a href="/rsvp" style="display:block;width:fit-content;text-decoration:none;">
+                <p class="rsvp-button" style="text-align:center;">Clicca qui per RSVP</p>
+            </a>
+        </section>
+    </section>
+
+    <div class="image image2"></div>
+
+
+    <section id="order-of-events" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/leaves.svg" . }}
+        </div>
+
+        {{ $t := .Site.GetPage "/section/order-of-events" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+
+    <div class="image image3"></div>
+
+    <section id="travel-accommodation" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div>
+
+        {{ $t := .Site.GetPage "/section/travel-accommodation" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+    
+    <div class="image image1"></div>
+
+    <section id="dress" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div>
+    
+        {{ $t := .Site.GetPage "/section/dress" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+    <section id="gifts" class="section light">
+        {{ $t := .Site.GetPage "/section/gifts" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+
+    <div class="image image2"></div>
+
+    <section id="more" class="section light" style="text-align:center;">
+        <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div>
+        <p style="margin-bottom:1em;">Grazie per aver visitato il nostro sito!</p>
+        <p style="margin-bottom:1em;">Non vediamo l'ora di condividere questo giorno speciale con voi, i nostri cari, tutti nello stesso posto allo stesso momento!</p>
+        <p style="margin-bottom:1em;">Nel frattempo, se avete domande sentitevi liberi di contattarci <a href="mailto:ciro@pentangelo.it">via mail!</a></p>
+
+        <p style="margin-top:2em;margin-bottom:1em;">*</p>
+
+    </section>
+
+    <div class="scroll-top">
+        <a class="scroll-top__button" href="#top">
+            {{ partial "svgs/scroll-up.svg" . }}
+        </a>
+    </div>
+</main>
