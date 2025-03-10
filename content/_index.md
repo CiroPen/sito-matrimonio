@@ -1,6 +1,7 @@
 ---
 draft: false
-when: "Sabato 10 Maggio 2024"
+when: "Sabato 10 Maggio 2025"
+when2: "16:30"
 cerimonia:
   first: "Museo Correale"
   second: "Via Correale, 50, 80067 Sorrento NA"

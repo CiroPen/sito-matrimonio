@@ -1,7 +1,7 @@
 {
   "baseURL": "https://hugoandsarah.wedding",
   "languageCode": "en-us",
-  "title": "Matrimonio di Ciro e Vale",
+  "title": "Valentina e Ciro",
   "show_comments": false,
   "disableKinds": [
     "sitemap",
@@ -38,6 +38,8 @@
   "params": {
     "background_image_1": "https://i.imgur.com/7VruBfz.jpeg",
     "background_image_2": "https://i.imgur.com/NvL5IrL.jpeg",
-    "background_image_3": "https://i.imgur.com/hZoHB4j.jpeg"
+    "background_image_3": "https://i.imgur.com/hZoHB4j.jpeg",
+    "background_image_4": "https://i.imgur.com/80sHRUX.jpeg",
+    "background_image_5": "https://i.imgur.com/QyYiySM.jpeg"
   }
 }

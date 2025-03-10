@@ -37,14 +37,24 @@ html {
 :root {
   --main-font: 'Noto Sans', sans-serif;
 
-  --cream : #FAF2DA;
+  --cream : #fff0ce;
+  --dark-green: #0c356a;
+  --dusty-pink: #fff0ce;
+  /*--dusty-pink: #0174be; Backup blu scuro */
+  --light-green: #ffc436; /* giallo + acceso se ci serve altro colore */
+
+  --sky-blue: #87CEEB;
+  --pastel-yellow: #FFEE8C;
+  --black: #000000;
+  --white: #FFFFFF;
+/*  --cream : #FAF2DA;
   --light-green: #8E9775;
   --dark-green: #4A503D;
   --dusty-pink: #E28F83;
   --sky-blue: #87CEEB;
   --pastel-yellow: #FFEE8C;
   --black: #000000;
-  --white: #FFFFFF;
+  --white: #FFFFFF;*/
 }
 
 /* IMAGES - DESKTOP PARALLAX SCROLLING */

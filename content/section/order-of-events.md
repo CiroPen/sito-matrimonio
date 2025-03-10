@@ -3,7 +3,7 @@ draft: false
 title: "Orari di riferimento"
 ---
 
-La cerimonia si svolgerà nel primo pomeriggio, con cerimonia civile al Museo Correale seguita da ricevimento e cena all'Hotel Riviera.
+La cerimonia civile si svolgerà alle 16:30 presso il museo Correale; sarà possibile per gli ospiti visitare liberamente il museo e il giardino prima della cerimonia. Seguirà il ricevimento presso l'Hotel Riviera a pochi passi di distanza. 
 
 <br>
 

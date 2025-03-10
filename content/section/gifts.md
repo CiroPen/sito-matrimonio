@@ -4,9 +4,13 @@ title: "Regalo di nozze"
 giftUrl: "https://www.google.com"
 ---
 
-Il regalo più grande che possiate farci è la vostra presenza a questo momento felice.
-Non abbiamo preparato una lista nozze, ma in caso vogliate farci un regalo potete farlo contribuendo al nostro viaggio di nozze o alla costruzione del nostro nido d'amore.
 
-(DATI BANCARI QUI)
+Non vediamo l'ora di condividere questo giorno speciale con tutti voi. 
+Il nostro desiderio più grande è che siate presenti, ma qualora vogliate dare supporto alla nascita della nostra famiglia, potete aiutarci con un pensiero al seguente IBAN:
+
+<br>
+
+<center>IT86L0306901626100000077903</center>
 
 
+<center>Ciro Pentangelo</center>
