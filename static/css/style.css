@@ -38,8 +38,11 @@ html {
   --main-font: 'Noto Sans', sans-serif;
 
   --cream : #fff0ce;
-  --dark-green: #0c356a;
+  --gold : #b68f00;
+  --dark-gold : #4d3c00;
+  --dark-green: #a17e01;
   --dusty-pink: #fff0ce;
+  --barra-sopra : #e3c667;
   /*--dusty-pink: #0174be; Backup blu scuro */
   --light-green: #ffc436; /* giallo + acceso se ci serve altro colore */
 
@@ -91,8 +94,8 @@ html {
     justify-content: center;
     align-items: center;
     background-color: var(--dusty-pink);
-    color: var(--cream);
-    text-shadow: var(--dark-green) 2px 2px 0px;
+    color: var(--gold);
+    text-shadow: var(--dark-gold) 2px 2px 0px;
     letter-spacing: 2px;
 
     height: 100vh;
@@ -213,7 +216,7 @@ html {
 
 .nav-mobile__menu {
   display: none;
-  background-color: var(--dusty-pink);
+  background-color: var(--barra-sopra);
   width: 100vw;
   height: 100vh;
   position: fixed;
@@ -237,7 +240,7 @@ html {
         
         padding: 20px 20%;
         width: 100%;
-        background-color: var(--dusty-pink);
+        background-color: var(--barra-sopra);
     
         display: flex;
         flex-direction: row;
@@ -255,7 +258,7 @@ html {
   font-size: 1.5rem;
   font-weight: bolder;
   margin-bottom: 1.5rem;
-  color: var(--cream);
+  color: var(--dark-gold);
   font-style: italic;
   text-align: center;
   text-transform: uppercase;
@@ -276,7 +279,7 @@ html {
   padding: 0 0.5rem;
   width: -webkit-fill-available;
 
-  color: var(--cream);
+  color: var(--dark-gold);
   text-decoration: none;
 }
 
