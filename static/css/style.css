@@ -60,6 +60,25 @@ html {
   --white: #FFFFFF;*/
 }
 
+/* Logo mobile e desktop */
+
+@media only screen and (min-width: 800px) {
+  .logo {
+      width: 35%;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .logo {
+      width: 100%;
+  }
+}
+
+/* Link (tentativo) */
+a {
+  color: var(--dark-gold);
+}
+
 /* IMAGES - DESKTOP PARALLAX SCROLLING */
 
 .image {
@@ -175,7 +194,7 @@ html {
 .nav-mobile__burger {
   width: 50px;
   height: 6px;
-  background: var(--cream);
+  background: var(--gold);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -186,7 +205,7 @@ html {
   position: absolute;
   width: 50px;
   height: 6px;
-  background: var(--cream);
+  background: var(--gold);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -425,8 +444,8 @@ html {
   display: flex;
   flex-direction: column;
   text-align: center;
-  color: var(--cream);
-  font-size: 75%;
+  color: var(--gold);
+  font-size: 50%;
 }
 
 .footer svg {
