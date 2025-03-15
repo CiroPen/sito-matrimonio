@@ -351,7 +351,7 @@ html {
 
 .section__split div:nth-child(1) {
   border-right: none;
-  border-bottom: solid 2px var(--dusty-pink);
+  border-bottom: solid 2px var(--gold);
 }
 
 @media only screen and (min-width: 800px) {
@@ -360,7 +360,7 @@ html {
   }
 
   .section__split div:nth-child(1) {
-    border-right: solid 2px var(--dusty-pink);
+    border-right: solid 2px var(--gold);
     border-bottom: none;
   }
 }
@@ -443,14 +443,14 @@ html {
 .footer a:visited,
 .footer a:hover,
 .footer a:active {
-  color: var(--cream);
+  color: var(--gold);
 }
 
 @media only screen and (min-width: 800px) {
   .footer {
     text-align: right;
-    color: var(--cream);
-    font-size: inherit;
+    color: var(--gold);
+    font-size: small;
   }
   
   .footer svg {
