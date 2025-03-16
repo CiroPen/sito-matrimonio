@@ -37,11 +37,11 @@ html {
 :root {
   --main-font: 'Noto Sans', sans-serif;
 
-  --cream : #fff0ce;
+  --cream : #fff7e5; /* fff0ce */
   --gold : #b68f00;
   --dark-gold : #4d3c00;
   --dark-green: #a17e01;
-  --dusty-pink: #fff0ce;
+  --dusty-pink: #fff7e5;
   --barra-sopra : #e3c667;
   /*--dusty-pink: #0174be; Backup blu scuro */
   --light-green: #ffc436; /* giallo + acceso se ci serve altro colore */
