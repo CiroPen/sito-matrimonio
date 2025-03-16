@@ -37,12 +37,14 @@ html {
 :root {
   --main-font: 'Noto Sans', sans-serif;
 
-  --cream : #fff7e5; /* fff0ce */
-  --gold : #b68f00;
+  --cream : #fff9eb; /* fff0ce */
+  --gold : #a17e01; /* a17e01 */
   --dark-gold : #4d3c00;
-  --dark-green: #a17e01;
-  --dusty-pink: #fff7e5;
-  --barra-sopra : #e3c667;
+  --dark-green: #1a67b0;
+  --dusty-pink: #fff9eb;
+  --barra-sopra : #1a67b0;
+  --blu : #1a67b0;
+  --blu-scuro : #114171;
   /*--dusty-pink: #0174be; Backup blu scuro */
   --light-green: #ffc436; /* giallo + acceso se ci serve altro colore */
 
@@ -76,7 +78,7 @@ html {
 
 /* Link (tentativo) */
 a {
-  color: var(--dark-gold);
+  color: var(--blu-scuro);
 }
 
 /* IMAGES - DESKTOP PARALLAX SCROLLING */
@@ -114,7 +116,7 @@ a {
     align-items: center;
     background-color: var(--dusty-pink);
     color: var(--gold);
-    text-shadow: var(--dark-gold) 2px 2px 0px;
+    /*text-shadow: var(--dark-gold) 2px 2px 0px;*/
     letter-spacing: 2px;
 
     height: 100vh;
@@ -294,17 +296,26 @@ a {
 
 .nav-desktop__link {
   display: inline-block;
+  font-weight: 400;
   text-align: center;
   padding: 0 0.5rem;
   width: -webkit-fill-available;
 
-  color: var(--dark-gold);
+  color: var(--cream);
   text-decoration: none;
 }
 
 .rsvp-button {
+  color: var(--blu-scuro);
+  background: var(--cream);
+  padding: 0.5rem;
+  border-radius: 10px;
+  width: fit-content;
+}
+
+.rsvp-button-body {
   color: var(--cream);
-  background: var(--dark-green);
+  background: var(--blu-scuro);
   padding: 0.5rem;
   border-radius: 10px;
   width: fit-content;
@@ -357,6 +368,18 @@ a {
   margin-bottom: 5%;
 }
 
+.fiore__svg {
+  display: flex;
+  /*width: 20%;*/
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 3%;
+}
+.fiore__svg svg {
+  width: 25%;
+  height: 25%;
+}
+
 .section__split {
   display: flex;
   flex-direction: column;
@@ -370,7 +393,7 @@ a {
 
 .section__split div:nth-child(1) {
   border-right: none;
-  border-bottom: solid 2px var(--gold);
+  border-bottom: solid 2px var(--blu);
 }
 
 @media only screen and (min-width: 800px) {
@@ -379,7 +402,7 @@ a {
   }
 
   .section__split div:nth-child(1) {
-    border-right: solid 2px var(--gold);
+    border-right: solid 2px var(--blu);
     border-bottom: none;
   }
 }
