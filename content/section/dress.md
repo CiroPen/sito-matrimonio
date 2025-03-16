@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Abbigliamento"
+title: "Dress Code"
 ---
 
 Non ci sono regole sull'abbigliamento. Il cielo è il limite: non lasciate che i vostri sogni restino sogni. Volete indossare quella meravigliosa cravatta con le anatre che avete ereditato dal nonno? Chi siamo noi per impedirvi di diventare la vostra versione migliore?
