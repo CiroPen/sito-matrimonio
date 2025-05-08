@@ -7,7 +7,7 @@ La cerimonia civile si svolgerà alle 16:30 presso il museo Correale; sarà poss
 
 <br>
 
-Sarà possibile parcheggiare la propria auto presso l'Hotel Riviera, anche prima dell'inizio della cerimonia, comunicando alla reception la vostra partecipazione al matrimonio.
+Sarà possibile lasciare la vostra automobile gratuitamente all'Hotel Riviera dalle 15:30 alle 16:30. Troverete gli addetti fuori l'albergo, a livello strada (non avete bisogno di entrare nel cancello con la macchina), che ritireranno le automobili per portarle al parcheggio. Basterà comunicare che siete lì per il matrimonio di Valentina e Ciro. A fine serata ci sarà una navetta che vi porterà al parcheggio per ritirare la vostra auto. Se avete dei cambi di abito o altri effetti personali che vi serviranno durante il ricevimento, vi consigliamo di portarli con voi per non dover arrivare al parcheggio per recuperarli.
 
 <br>
 
