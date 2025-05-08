@@ -10,4 +10,4 @@ A parte il bianco riservato per la sposa, non ci sono colori vietati. Datevi all
 
 <br>
 
-Tipicamente Maggio a Sorrento è caldo e soleggiato. Ѐ tuttavia possibile che la sera faccia più fresco, quindi vi consigliamo di portare qualcosa per corpirvi nel caso il vostro outfit sia particolarmente audace.
+Tipicamente Maggio a Sorrento è caldo e soleggiato. Ѐ tuttavia possibile che la sera faccia più fresco, quindi vi consigliamo di portare qualcosa per coprirvi nel caso il vostro outfit sia particolarmente audace.
