@@ -11,4 +11,8 @@ Sarà possibile lasciare la vostra automobile gratuitamente all'Hotel Riviera da
 
 <br>
 
+**Se volete condividere delle foto dell'evento, caricatele su questo <a href="https://photos.app.goo.gl/pUwUSBGghiPHixHE9">album Google Photos</a>.**
+
+<br>
+
 **Vi rimandiamo alla pagina <a href="/travel">consigli di viaggio</a> per altre informazioni su come arrivare e altro.**
